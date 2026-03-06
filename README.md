@@ -4,8 +4,6 @@ A full-stack **Todo List Application** built using **Go (Golang) for the backend
 This project allows users to **register, login, and manage tasks efficiently** with a clean and modern UI.
 
 ---
-# 📝 Todo List Application (Go + React)
-
 🌐 **Live Demo**
 
 Frontend (Vercel):  
