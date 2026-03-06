@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  color: #333;
+}
+
+.page-container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 30px;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+.button {
+  padding: 10px 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.primary {
+  background: #2a5298;
+  color: white;
+}
+
+.danger {
+  background: #e63946;
+  color: white;
+}
+
+.success {
+  background: #2ecc71;
+  color: white;
+}
+
+input, select {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  height: 12px;
+  background: #ddd;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+.progress-fill {
+  height: 100%;
+  background: #2ecc71;
+  border-radius: 10px;
+  transition: 0.4s;
+}
