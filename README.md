@@ -39,7 +39,7 @@ This project allows users to **register, login, and manage tasks efficiently** w
 
 ### Database
 
-* MySQL / SQLite (depending on your setup)
+* MongoDB (depending on your setup)
 
 ---
 
